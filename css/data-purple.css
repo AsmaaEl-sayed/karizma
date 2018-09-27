@@ -1,0 +1,62 @@
+
+.info a:hover{
+background: purple;
+border-color: purple;
+}
+
+.right-side ul li#active a{
+    color: purple;
+}
+.right-side ul li a:hover{
+    color: purple;
+}
+.right-side ul li i:hover{
+    color: purple;
+}
+g.Header {
+    stroke: purple;
+}
+.skill div span{
+    background-color: purple
+}
+.language div span{
+    background-color: purple;
+}
+.fact i{
+    color: purple;
+}
+.fact h3{
+    border-bottom: 1px solid purple;
+}
+.resume .EDUCATION-item{
+    border-left: 1px solid purple;
+}
+.resume .date::after{
+    background-color: purple;
+}
+.services  i{
+    border: 1px solid purple;
+    background-color: purple;
+}
+
+.Portfolio .portfolio-nav ul li:hover a{
+    color:purple;
+    border-bottom: 1px solid purple;
+}
+.Portfolio .portfolio-nav ul li a.active{
+    border-bottom: 1px solid purple;
+    color: purple;
+}
+.Portfolio .Portfolio-item  .img-info span{
+    color: purple;
+}
+.contactme-info .item i{
+    color: purple;
+}
+form button{
+    border-color: purple;
+}
+form button:hover{
+    background-color:purple;
+
+}

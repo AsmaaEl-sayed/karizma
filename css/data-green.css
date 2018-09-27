@@ -1,0 +1,62 @@
+
+.info a:hover{
+background: green;
+border-color: green;
+}
+
+.right-side ul li#active a{
+    color: green;
+}
+.right-side ul li a:hover{
+    color: green;
+}
+.right-side ul li i:hover{
+    color: green;
+}
+g.Header {
+    stroke: green;
+}
+.skill div span{
+    background-color: green
+}
+.language div span{
+    background-color: green;
+}
+.fact i{
+    color: green;
+}
+.fact h3{
+    border-bottom: 1px solid green;
+}
+.resume .EDUCATION-item{
+    border-left: 1px solid green;
+}
+.resume .date::after{
+    background-color: green;
+}
+.services  i{
+    border: 1px solid green;
+    background-color: green;
+}
+
+.Portfolio .portfolio-nav ul li:hover a{
+    color:green;
+    border-bottom: 1px solid green;
+}
+.Portfolio .portfolio-nav ul li a.active{
+    border-bottom: 1px solid green;
+    color: green;
+}
+.Portfolio .Portfolio-item  .img-info span{
+    color: green;
+}
+.contactme-info .item i{
+    color: green;
+}
+form button{
+    border-color: green;
+}
+form button:hover{
+    background-color:green;
+}
+green

@@ -1,0 +1,6 @@
+.right-side ul li#active a{
+    color: darkblue;
+}
+.right-side ul li a:hover{
+    color: darkblue;
+}

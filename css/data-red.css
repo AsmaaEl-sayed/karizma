@@ -1,0 +1,61 @@
+
+.info a:hover{
+background: red;
+border-color: red;
+}
+
+.right-side ul li#active a{
+    color: red;
+}
+.right-side ul li a:hover{
+    color: red;
+}
+.right-side ul li i:hover{
+    color: red;
+}
+g.Header {
+    stroke: red;
+}
+.skill div span{
+    background-color: red;
+}
+.language div span{
+    background-color: red;
+}
+.fact i{
+    color: red;
+}
+.fact h3{
+    border-bottom: 1px solid red;
+}
+.resume .EDUCATION-item{
+    border-left: 1px solid red;
+}
+.resume .date::after{
+    background-color: red;
+}
+.services  i{
+    border: 1px solid red;
+    background-color: red;
+}
+
+.Portfolio .portfolio-nav ul li:hover a{
+    color:red;
+    border-bottom: 1px solid red;
+}
+.Portfolio .portfolio-nav ul li a.active{
+    border-bottom: 1px solid red;
+    color: red;
+}
+.Portfolio .Portfolio-item  .img-info span{
+    color: red;
+}
+.contactme-info .item i{
+    color: red;
+}
+form button{
+    border-color: red;
+}
+form button:hover{
+    background-color:red;
+}
